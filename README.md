@@ -1,5 +1,8 @@
 📊 Sales MIS Dashboard (Excel)
 
+⚠️ Note: Excel dashboard files (.xlsx) are binary and need to be downloaded to view.
+
+
 🔍 Project Overview
 
 This project demonstrates a Sales Management Information System (MIS) built using Advanced Excel to support business reporting and decision-making.
